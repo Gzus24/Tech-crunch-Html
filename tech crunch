@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+        <link rel="stylesheet" href="stylesheet/techcrunch.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk&display=swap" rel="stylesheet">
+
+    </head>
+    <body>
+        <header>
+            <img src="images/techcrunch-logo1.webp" alt="logo">
+            
+            <nav class="nav-bar">
+                <ul>
+                    <li>
+                        <form action="">
+                            <input type="text" placeholder="Search">
+                        </form>
+                    </li> 
+                    <li><a href="#">Startups</a></li>
+                    <li><a href="#">Startups</a></li>
+                    <li><a href="#">Startups</a></li>
+                    <li><a href="#">Startups</a></li>
+                    <li><a href="#">Startups</a></li>
+                    <li><a href="#">Startups</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section class="first">
+            <a href="#"><h1>
+                Black Friday 2022 e-commerce reaches record $9.12B, Thanksgiving $5.3B; BNPL and mobile are big hits
+                </h1>
+            <span>Amanda</span>
+            <img src="images/black friday.webp" alt="Black Friday"></a>
+        <section class="list-sec">
+            <ul>
+                <li>
+                    <span>Apps</span>
+                    <h2><a href="">Twitter</a></h2>
+                    <span>Person Name</span>
+                </li>
+                <li>
+                    <span>Commerce</span>
+                    <h2><a href="">Amazon</a></h2>
+                    <span>Manish</span>
+                </li>
+                <li>
+                    <span>Government & Policy</span>
+                    <h2><a href="">UK</a></h2>
+                    <span>Natasha</span>
+                </li>
+                <li>
+                    <span>Work</span>
+                    <h2><a href="">Kubernotes</a></h2>
+                    <span>Sylvain</span>
+                </li>
+            </ul>
+            </section>
+        </section>
+        </section>
+    </body>
+</html>
